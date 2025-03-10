@@ -1,4 +1,4 @@
-# this side arnav gupta from 3rd year of cse from jaypee universite of information technology
-I am arnav gupta from 3rd year of cse from jaypee universite
+# this side Arnav gupta from 3rd year 
 
--[model link ]()
+
+-[model link ](https://www.youtube.com/watch?v=7fjOw8ApZ1I&t=15164s&ab_channel=ChaiaurCode)
